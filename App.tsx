@@ -1,12 +1,5 @@
 import React, {useState} from 'react';
-import {
-  View,
-  Text,
-  useColorScheme,
-  StyleSheet,
-  SafeAreaView,
-  Pressable,
-} from 'react-native';
+import {View, Text, StyleSheet, Pressable} from 'react-native';
 import One from './assets/One.png';
 import Two from './assets/Two.png';
 import Three from './assets/Three.png';
